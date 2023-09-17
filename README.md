@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects </b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/Mustafa9779/Azure-SOC)
   
 <h2> 🤳 Connect with me:</h2>
 https://www.linkedin.com/in/mustafa-ahmed-437b7b19b
