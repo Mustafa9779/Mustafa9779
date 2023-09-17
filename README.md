@@ -6,8 +6,7 @@
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
   
 <h2> 🤳 Connect with me:</h2>
-
-[linkedin]: https://www.linkedin.com/in/mustafa-ahmed-437b7b19b]
+https://www.linkedin.com/in/mustafa-ahmed-437b7b19b
 
 
 [twitter]: https://twitter.com/joshmadakor
