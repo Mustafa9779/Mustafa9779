@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mustafa! <br/><a href="https://github.com/Mustafa9779">IT proffesional </a>, <a href="https://www.linkedin.com/in//mustafa-ahmed-437b7b19b/">Intrested in CyberSecurity</a>,
+<h1>Hi, I'm Mustafa! <br/><a href="https://github.com/Mustafa9779">IT proffesional</a>, <a href="https://www.linkedin.com/in//mustafa-ahmed-437b7b19b/">Intrested in CyberSecurity</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
