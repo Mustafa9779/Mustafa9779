@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mustafa! <br/><a href="https://github.com/Mustafa9779">Information Security Analyst</a> with <a href="https://www.linkedin.com/in/mustafa-ahmed-437b7b19b/">interests in Identity & Access Management</a></h1>
+ <h1>Hi, I'm Mustafa! Information Security Analyst</a> with interests in Identity & Access Management</a></h1>
 
 <h2>🔒 Cybersecurity & IAM Projects:</h2>
 
